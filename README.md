@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Vinícius, student at IFSP - Campus Salto, a public institution for education in Brazil. I Like computers and their stuff a lot and this is the GitHub account in which I will store my projects. Welcome!   
 
-### These are the languages I know a bit
+### These are the languages I know a bit:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
