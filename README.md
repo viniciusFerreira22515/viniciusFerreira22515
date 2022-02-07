@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Vinícius, student at IFSP - Campus Salto, a public institution for education in Brazil. I Like computers and their stuff a lot and this is the GitHub account in which I will store my projects. Welcome!   
+I'm Vinícius, a young boy who enjoys programming. I Like computers and their stuff a lot and this is the GitHub account in which I will store my projects. Welcome!   
 
 ### These are the languages I know a bit:
 <div style="display: inline_block"><br>
